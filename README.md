@@ -10,7 +10,7 @@ Dynamic Updates: Real-time display of user input and calculated results as you i
 
 Screenshots:
 
-![1 (1) (1)](https://github.com/Ajay-2022-Soft-Tech/calculator_clone/assets/113298640/d5d98af7-8ce4-4050-8f32-14668d503f5c)  ![1 (2) (1)](https://github.com/Ajay-2022-Soft-Tech/calculator_clone/assets/113298640/7cb72a69-8421-4a3a-a8eb-15838030dcd5)
+![1 (1) (1)](https://github.com/Ajay-2022-Soft-Tech/calculator_clone/assets/113298640/d5d98af7-8ce4-4050-8f32-14668d503f5c)            ![1 (2) (1)](https://github.com/Ajay-2022-Soft-Tech/calculator_clone/assets/113298640/7cb72a69-8421-4a3a-a8eb-15838030dcd5)
 
 
 
